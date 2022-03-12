@@ -1,0 +1,11 @@
+server:
+  host: "localhost"
+  port: 5001
+  max_size: 8 # Calculate by megabyte
+  valid_token: "VALID_TOKEN"
+database:
+  host: "db.altisss.vn"
+  port: 1521
+  user: "jira"
+  password: "2Knd]fJgexfJgexM."
+  sn: "COREDB"
